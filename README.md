@@ -24,5 +24,6 @@ Template Project for starting up CRUD API with Django Rest Framework
 - Optional: Update `api_tester.py`
 
 ## [pull_request](https://github.com/monaSalih/cookie-stand-api/pull/1)
+### [heroku_link](https://live-cookie-snack.herokuapp.com/api/v1/cookie_stands/)
 username = admin
 password = 1234
