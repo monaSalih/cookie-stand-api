@@ -23,4 +23,4 @@ Template Project for starting up CRUD API with Django Rest Framework
 - Run makemigrations and migrate commands
 - Optional: Update `api_tester.py`
 
-## [pull_request]()
+## [pull_request](https://github.com/monaSalih/cookie-stand-api/pull/1)
